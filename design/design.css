@@ -8,6 +8,11 @@ a img{
     width: 200px;
 }
 
+div img{
+    height: 200px;
+    width: 200;
+}
+
 .img{
     height: 100px;
     width: 100px;
