@@ -3,11 +3,24 @@ p{
     font-size: 30px;
 }
 
+.imgpx  {
+    height: 400px;
+    width: 400px;
+    margin-left: 10;
+    justify-content: center;
+}
 
-.special-img {
+.imgpx2{
+    height: 400px;
+    width: 600px;
+    justify-content: center;
+}
+
+/* .special-img {
     height: 200px;
     width: 200px;
-}
+} */
+
 
 
 
